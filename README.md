@@ -10,9 +10,7 @@ We can only hope that [submitting feedback to Apple](https://www.apple.com/feedb
 
 Download `reverse-scroll-direction.applescript`.
 
-Move it to your Raycast script directory.
-
-More information on Raycast script commands can be found [here](https://www.raycast.com/blog/getting-started-with-script-commands)
+Move it to your [Raycast script directory](https://github.com/raycast/script-commands#install-script-commands-from-this-repository).
 
 ## License
 
